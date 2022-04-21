@@ -1,5 +1,5 @@
 # PacMen Exercise
-1) In this project, the objectives were : 1) To create pacmen when a button is clicked and 2) To Move these pacmen across the window on the click of another button.
+1) In this project, the objectives were : 1) To create pacmen when a button is clicked and 2) To Move these pacmen across the window on the click of another button using HTML, CSS, and Javascript.
 
 2) <h>How to run :</h>
 
