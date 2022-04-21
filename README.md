@@ -2,7 +2,7 @@
 In this project, the objectives were : 1) To create pacmen when a button is clicked and 2) To Move these pacmen across the window on the click of another button.
 
 <h>How to run</h>
-Clone this repository on to the local system and then run it through VS Code on a window on the local host. Then press the AddPacman button and Start Game to test the project.
+<body>Clone this repository on to the local system and then run it through VS Code on a window on the local host. Then press the AddPacman button and Start Game to test the project.</body>
 
 <h>Future Improvements</h>
 Right now, the code creates panmen and moves them across the window on the click of 2 buttons. I can try to implement both the actions onclick of a single button.
