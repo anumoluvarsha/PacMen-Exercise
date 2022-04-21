@@ -10,7 +10,6 @@
     <body>Right now, the code creates pacmen and moves them across the window on the click of 2 buttons. I can try to implement both the actions onclick of a single          button.</body>
 
 4) <h>License Information : </h>
-5) 
 <body>MIT License
 
 Copyright (c) 2022 anumoluvarsha
